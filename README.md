@@ -33,46 +33,19 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
 <table>
   <tr>
     <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[DESIGN]</code><br/><br/>
-      <img src="https://shields.io" alt="Figma" /><br/>
-      <img src="https://shields.io" alt="Photoshop" /><br/>
-      <img src="https://shields.io" alt="Illustrator" />
+      <code>[DESIGN]</code><br/><br/><img src="https://shields.io" alt="Figma" /><br/><img src="https://shields.io" alt="Photoshop" /><br/><img src="https://shields.io" alt="Illustrator" />
     </td>
     <td bgcolor="#0d1117" align="center" valign="top" width="180">
-      <code>[FRONTEND]</code><br/><br/>
-      <img src="https://shields.io" alt="JS" /><br/>
-      <img src="https://shields.io" alt="TS" /><br/>
-      <img src="https://shields.io" alt="React" /><br/>
-      <img src="https://shields.io" alt="Next" /><br/>
-      <img src="https://shields.io" alt="Tailwind" /><br/>
-      <img src="https://shields.io" alt="Bootstrap" />
+      <code>[FRONTEND]</code><br/><br/><img src="https://shields.io" alt="JS" /><br/><img src="https://shields.io" alt="TS" /><br/><img src="https://shields.io" alt="React" /><br/><img src="https://shields.io" alt="Next" /><br/><img src="https://shields.io" alt="Tailwind" /><br/><img src="https://shields.io" alt="Bootstrap" />
     </td>
     <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[BACKEND]</code><br/><br/>
-      <img src="https://shields.io" alt="PHP" /><br/>
-      <img src="https://shields.io" alt="Laravel" /><br/>
-      <img src="https://shields.io" alt="Node" /><br/>
-      <img src="https://shields.io" alt="Express" /><br/>
-      <img src="https://shields.io" alt="Python" /><br/>
-      <img src="https://shields.io" alt="Django" /><br/>
-      <img src="https://shields.io" alt="Golang" />
+      <code>[BACKEND]</code><br/><br/><img src="https://shields.io" alt="PHP" /><br/><img src="https://shields.io" alt="Laravel" /><br/><img src="https://shields.io" alt="Node" /><br/><img src="https://shields.io" alt="Express" /><br/><img src="https://shields.io" alt="Python" /><br/><img src="https://shields.io" alt="Django" /><br/><img src="https://shields.io" alt="Golang" />
     </td>
     <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[MOBILE]</code><br/><br/>
-      <img src="https://shields.io" alt="Flutter" /><br/>
-      <img src="https://shields.io" alt="React Native" /><br/>
-      <img src="https://shields.io" alt="Kotlin" /><br/>
-      <img src="https://shields.io" alt="Swift" /><br/>
-      <img src="https://shields.io" alt="Android" /><br/>
-      <img src="https://shields.io" alt="Apple" />
+      <code>[MOBILE]</code><br/><br/><img src="https://shields.io" alt="Flutter" /><br/><img src="https://shields.io" alt="React Native" /><br/><img src="https://shields.io" alt="Kotlin" /><br/><img src="https://shields.io" alt="Swift" /><br/><img src="https://shields.io" alt="Android" /><br/><img src="https://shields.io" alt="Apple" />
     </td>
     <td bgcolor="#0d1117" align="center" valign="top" width="180">
-      <code>[INFRA//DB]</code><br/><br/>
-      <img src="https://shields.io" alt="Actions" /><br/>
-      <img src="https://shields.io" alt="Docker" /><br/>
-      <img src="https://shields.io" alt="Linux" /><br/>
-      <img src="https://shields.io" alt="Nginx" /><br/>
-      <img src="https://shields.io" alt="MySQL" />
+      <code>[INFRA//DB]</code><br/><br/><img src="https://shields.io" alt="Actions" /><br/><img src="https://shields.io" alt="Docker" /><br/><img src="https://shields.io" alt="Linux" /><br/><img src="https://shields.io" alt="Nginx" /><br/><img src="https://shields.io" alt="MySQL" />
     </td>
   </tr>
 </table>
@@ -95,4 +68,4 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
 ### ⚡ [ESTABLISH_CONNECTION]
 - 📥 **Secure Line (LinkedIn):** [in/mosyan](https://linkedin.com)
 - 🌐 **Main Node (Website):** [mosyan.dev](https://mosyan.dev)
-- 🆔 **Digital Signature (ORCID):** [0009-0000-1621-5418](https://orcid.org/0009-0000-1621-5418)
+- 🆔 **Digital Signature (ORCID):** [0009-0000-1621-5418](https://orcid.org)

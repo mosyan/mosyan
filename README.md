@@ -1,7 +1,7 @@
 # ⚡ MOCHAMAD SYAIFUL ANWAR // SYSTEM_ARCHITECT 🚀
 
 <p align="center">
-  <img src="https://komarev.com" alt="System Pings" />
+  🌐 <b>[MOSYAN_MAIN_NODE]</b>
 </p>
 
 ```text
@@ -28,39 +28,28 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
 
 ---
 
-### 🛠️ [NEON_TECH_STACK]
+### 🛠️ [TECH_STACK_MATRIX]
 
-🎨 **[DESIGN_MATRIX]**  
-![Figma](https://shields.io) ![Photoshop](https://shields.io) ![Illustrator](https://shields.io)
-
-💻 **[FRONTEND_MATRIX]**  
-![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Bootstrap](https://shields.io)
-
-🌐 **[BACKEND_MATRIX]**  
-![PHP](https://shields.io) ![Laravel](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![Go](https://shields.io)
-
-📱 **[MOBILE_MATRIX]**  
-![Flutter](https://shields.io) ![React Native](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io) ![Android](https://shields.io) ![Apple](https://shields.io)
-
-⚙️ **[INFRASTRUCTURE_&_DATABASE]**  
-![GitHub Actions](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io) ![Nginx](https://shields.io) ![MySQL](https://shields.io)
+```ini
+[🎨_DESIGN]     ==> Figma // Adobe_Photoshop // Adobe_Illustrator
+[💻_FRONTEND]   ==> JavaScript_ES6 // TypeScript // React.js // Next.js // TailwindCSS // Bootstrap
+[🌐_BACKEND]    ==> PHP // Laravel_Ecosystem // Node.js // Express // Python // Django // Golang
+[📱_MOBILE]     ==> Flutter // React_Native // Kotlin // Swift // Android_Studio // Apple_iOS
+[⚙️_INFRA//DB]  ==> GitHub_Actions_CICD // Docker // Linux // Nginx_Server // MySQL_Database
+```
 
 ---
 
 ### 📊 [SYSTEM_METRICS]
 
-<p align="left">
-  <img src="https://vercel.app" alt="mosyan's Core Metrics" height="180" />
-  <img src="https://herokuapp.com" alt="mosyan's Commit Streak" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://vercel.app" alt="mosyan's Language Matrix" height="150" />
-</p>
+```text
+[STATUS] Active // Repositories: Monitored // Frameworks: Fully_Integrated
+[TARGET] Architecting scalable end-to-end applications and automating infrastructure.
+```
 
 ---
 
 ### ⚡ [ESTABLISH_CONNECTION]
-- 📥 **Secure Line (LinkedIn):** [in/mosyan](https://linkedin.com)
+- 📥 **Secure Line (LinkedIn):** [in/mosyan](https://linkedin.com/in/mosyan)
 - 🌐 **Main Node (Website):** [mosyan.dev](https://mosyan.dev)
 - 🆔 **Digital Signature (ORCID):** [0009-0000-1621-5418](https://orcid.org)

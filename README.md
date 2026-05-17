@@ -30,25 +30,20 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
 
 ### 🛠️ [NEON_TECH_STACK]
 
-<table>
-  <tr>
-    <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[DESIGN]</code><br/><br/><img src="https://shields.io" alt="Figma" /><br/><img src="https://shields.io" alt="Photoshop" /><br/><img src="https://shields.io" alt="Illustrator" />
-    </td>
-    <td bgcolor="#0d1117" align="center" valign="top" width="180">
-      <code>[FRONTEND]</code><br/><br/><img src="https://shields.io" alt="JS" /><br/><img src="https://shields.io" alt="TS" /><br/><img src="https://shields.io" alt="React" /><br/><img src="https://shields.io" alt="Next" /><br/><img src="https://shields.io" alt="Tailwind" /><br/><img src="https://shields.io" alt="Bootstrap" />
-    </td>
-    <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[BACKEND]</code><br/><br/><img src="https://shields.io" alt="PHP" /><br/><img src="https://shields.io" alt="Laravel" /><br/><img src="https://shields.io" alt="Node" /><br/><img src="https://shields.io" alt="Express" /><br/><img src="https://shields.io" alt="Python" /><br/><img src="https://shields.io" alt="Django" /><br/><img src="https://shields.io" alt="Golang" />
-    </td>
-    <td bgcolor="#0d1117" align="center" valign="top" width="160">
-      <code>[MOBILE]</code><br/><br/><img src="https://shields.io" alt="Flutter" /><br/><img src="https://shields.io" alt="React Native" /><br/><img src="https://shields.io" alt="Kotlin" /><br/><img src="https://shields.io" alt="Swift" /><br/><img src="https://shields.io" alt="Android" /><br/><img src="https://shields.io" alt="Apple" />
-    </td>
-    <td bgcolor="#0d1117" align="center" valign="top" width="180">
-      <code>[INFRA//DB]</code><br/><br/><img src="https://shields.io" alt="Actions" /><br/><img src="https://shields.io" alt="Docker" /><br/><img src="https://shields.io" alt="Linux" /><br/><img src="https://shields.io" alt="Nginx" /><br/><img src="https://shields.io" alt="MySQL" />
-    </td>
-  </tr>
-</table>
+🎨 **[DESIGN_MATRIX]**  
+![Figma](https://shields.io) ![Photoshop](https://shields.io) ![Illustrator](https://shields.io)
+
+💻 **[FRONTEND_MATRIX]**  
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) ![Next.js](https://shields.io) ![TailwindCSS](https://shields.io) ![Bootstrap](https://shields.io)
+
+🌐 **[BACKEND_MATRIX]**  
+![PHP](https://shields.io) ![Laravel](https://shields.io) ![Node.js](https://shields.io) ![Express](https://shields.io) ![Python](https://shields.io) ![Django](https://shields.io) ![Go](https://shields.io)
+
+📱 **[MOBILE_MATRIX]**  
+![Flutter](https://shields.io) ![React Native](https://shields.io) ![Kotlin](https://shields.io) ![Swift](https://shields.io) ![Android](https://shields.io) ![Apple](https://shields.io)
+
+⚙️ **[INFRASTRUCTURE_&_DATABASE]**  
+![GitHub Actions](https://shields.io) ![Docker](https://shields.io) ![Linux](https://shields.io) ![Nginx](https://shields.io) ![MySQL](https://shields.io)
 
 ---
 

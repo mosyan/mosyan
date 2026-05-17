@@ -17,6 +17,10 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
 
 ### 🌐 [CORE_CAPABILITIES]
 
+*   **💻 ADVANCED WEB DEVELOPMENT (FULL-STACK)**  
+    Building scalable, production-ready web applications from the ground up. Seamlessly merging reactive, highly interactive user interfaces with secure, efficient        server-side architectures.
+*   **🔌 ENTERPRISE API DEVELOPMENT & ARCHITECTURE**  
+    Designing robust RESTful and GraphQL APIs, managing high-throughput traffic, microservices orchestration, and ensuring flawless third-party data synchronization.
 *   **🎨 UI/UX & PIXEL-PERFECT SLICING**  
     Translating high-fidelity Figma canvas assets into web/mobile production views with absolute **1:1 pixel fidelity**.
 *   **💻 END-TO-END FULL-STACK SYSTEMS**  

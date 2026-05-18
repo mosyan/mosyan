@@ -35,7 +35,7 @@ I am a highly ambitious and dedicated engineer engineering at the intersection o
     - 🚜 **Heavy Industries & Mining** (Resource tracking, mining logistics, and operations)
     - 🤖 **IoT Ecosystems & Automation** (Hardware integrations, smart devices, and telemetry)
     - 🎬 **Entertainment & Social Engagement** (Media platforms, high-traffic social systems, and targeted Ads matrices)
-    - ...and various other enterprise-grade industrial solutions.
+    - ...and various other enterprise-grade industrial solutions class **ERP** - **CRM** - **SCM** - **HRIS** - **POS** - **WRM**
 
 ---
 
